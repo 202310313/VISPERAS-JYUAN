@@ -132,7 +132,7 @@ input:checked ~ aside {
 
 
 .box:nth-child(2) {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrLU0r5awAIGOO_QJK_wNqLG-OkNa-mZcCA&s);
+    background-image: url(https://www.denofgeek.com/wp-content/uploads/2023/11/Fortnite-OG.jpg);
     width: 900px;
     background-size: cover;
     padding-top: 270px;;
@@ -145,7 +145,7 @@ input:checked ~ aside {
 }
 
 .box:nth-child(4) {
-    background-image: url(https://i.pinimg.com/736x/72/de/32/72de326d20005217b8abc26eb2bfef5d.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54bsUkOyoye6SWoz-_k_-LkqC80Ca51MRlg&s);
     width: 900px;
     background-size: cover;
     padding-top: 270px;;
@@ -163,7 +163,7 @@ input:checked ~ aside {
     width: 900px;
     background-size: cover;
     padding-top: 270px;;
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ5E-FjK0rCF8ryWf5VLhrAv_z-f6c3mRBLw&s);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEF-TE2kYMX4dHwlfW3TB_h-0_zDsBDFrZ2w&s);
 }
 
 /* About section styles */
